@@ -1,0 +1,105 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.6dd3cb5a6a9176750802.js",
+        "/polyfills.4f313472cd61f0ee0cce.js",
+        "/runtime.a66f828dca56eeb90e02.js",
+        "/scripts.dcc1dbb0e534af6b2a86.js",
+        "/styles.42409c989a9e4733a1a3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/assets/bootstrap/css/bootstrap.min.css",
+        "/assets/assets/bootstrap/js/bootstrap.min.js",
+        "/assets/assets/css/ionicons.min.css",
+        "/assets/assets/css/magnific-popup.css",
+        "/assets/assets/font-awesome/css/font-awesome.css",
+        "/assets/assets/font-awesome/css/font-awesome.min.css",
+        "/assets/assets/font-awesome/fonts/FontAwesome.otf",
+        "/assets/assets/font-awesome/fonts/fontawesome-webfont.eot",
+        "/assets/assets/font-awesome/fonts/fontawesome-webfont.ttf",
+        "/assets/assets/font-awesome/fonts/fontawesome-webfont.woff",
+        "/assets/assets/font-awesome/fonts/fontawesome-webfont.woff2",
+        "/assets/css/one.less",
+        "/assets/css/style.less",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/banner4.jpg",
+        "/assets/images/maxresdefault.jpg",
+        "/assets/js/Chart.min.js"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/assets/bootstrap/css/bootstrap.min.css": "bd98ad56f7d68a53741eb0edba6f8cac0575fa13",
+    "/assets/assets/bootstrap/js/bootstrap.min.js": "430a443d74830fe9be26efca431f448c1b3740f9",
+    "/assets/assets/css/ionicons.min.css": "8c5a17da99d985668c837b934a2a673df8270a2b",
+    "/assets/assets/css/magnific-popup.css": "d6963db6faa9294387bb3175813a61bc3f859437",
+    "/assets/assets/font-awesome/css/font-awesome.css": "b5020c3860669185ba3f316fa7332cdf5c06f393",
+    "/assets/assets/font-awesome/css/font-awesome.min.css": "7cd5a3384333f95c3d37d9488ad82cd6c4b03761",
+    "/assets/assets/font-awesome/fonts/FontAwesome.otf": "1b22f17fdc38070de50e6d1ab3a32da71aa2d819",
+    "/assets/assets/font-awesome/fonts/fontawesome-webfont.eot": "965ce8f688fedbeed504efd498bc9c1622d12362",
+    "/assets/assets/font-awesome/fonts/fontawesome-webfont.ttf": "61d8d967807ef12598d81582fa95b9f600c3ee01",
+    "/assets/assets/font-awesome/fonts/fontawesome-webfont.woff": "6d7e6a5fc802b13694d8820fc0138037c0977d2e",
+    "/assets/assets/font-awesome/fonts/fontawesome-webfont.woff2": "97e438cc545714309882fbceadbf344fcaddcec5",
+    "/assets/css/one.less": "d4b0b222689ad7ff6a9e0a466939888859725a5d",
+    "/assets/css/style.less": "3e75d2317ba77de3c3b611cc59c7c4bb6eb5758f",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/banner4.jpg": "c5f410e29c1c3c5aa66e2183c5154832ae4a29ac",
+    "/assets/images/maxresdefault.jpg": "579daba7e9e0230f23a43d93f5eed3fa8edca525",
+    "/assets/js/Chart.min.js": "289f9ab1aa2a4c437737aff348e45aed61d60863",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "e6108e37ee5f57ef3b8dbf0c32c76f3d76cb049f",
+    "/main.6dd3cb5a6a9176750802.js": "9674252f3d8daf3165e01cca61d2fa1675c29f72",
+    "/polyfills.4f313472cd61f0ee0cce.js": "6be2a77afd86322eabcebda6c1f3391d1f986a81",
+    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/scripts.dcc1dbb0e534af6b2a86.js": "228235392e9a58d7debb8ab1c3d92378f521a6da",
+    "/styles.42409c989a9e4733a1a3.css": "8c38534b6585b4f364c8926a2f1fee41e1a30f78"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}
